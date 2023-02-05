@@ -19,6 +19,6 @@ Yours sincerely,
 
 Nonoka
 
-Email: [Nonoka](mailto:nonoka9002@gmail.com?subject=[Nono Recorder]%20About%20Privacy%20policies)
+Email: [Nonoka](mailto:nonoka9002@gmail.com?subject=[NonoRecorder]%20About%20Privacy%20policies)
 
 Twitter: [@nonoka5126](https://twitter.com/nonoka5126)

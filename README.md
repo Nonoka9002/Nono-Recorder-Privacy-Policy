@@ -1,4 +1,4 @@
-# Nono Voice: Privacy policy
+# Nono Recorder: Privacy policy
 Welcome to the Nono Voice app!
 
 Nono Voice is a free app developed by Nonoka and currently available on Google Play Store. 

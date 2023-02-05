@@ -1,7 +1,7 @@
 # Nono Recorder: Privacy policy
-Welcome to the Nono Voice app!
+Welcome to the Nono Recorder app!
 
-Nono Voice is a free app developed by Nonoka and currently available on Google Play Store. 
+Nono Recorder is a free app developed by Nonoka and currently available on Google Play Store. 
 
 In this app, I need to collect some data that I can use to measure the app's performance on your device and make it better for you.
 
@@ -19,6 +19,6 @@ Yours sincerely,
 
 Nonoka
 
-Email: [Nonoka](mailto:nonoka9002@gmail.com?subject=[Animage]%20About%20Privacy%20policies)
+Email: [Nonoka](mailto:nonoka9002@gmail.com?subject=[Nono Recorder]%20About%20Privacy%20policies)
 
 Twitter: [@nonoka5126](https://twitter.com/nonoka5126)
